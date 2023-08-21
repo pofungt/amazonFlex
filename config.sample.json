@@ -1,0 +1,32 @@
+{
+    "username": "",
+    "password": "",
+    "minBlockRate": 0,
+    "minPayRatePerHour": 0,
+    "arrivalBuffer": 0,
+    "desiredWarehouses": [
+      ""
+    ],
+    "desiredStartTime": "00:00",
+    "desiredEndTime": "23:59",
+    "desiredWeekdays": [
+      "Mon",
+      "Tue",
+      "Wed",
+      "Thur",
+      "Fri",
+      "Sat",
+      "Sun"
+    ],
+    "retryLimit": 0,
+    "refreshInterval": 0,
+    "twilioAcctSid": "",
+    "twilioAuthToken": "",
+    "twilioFromNumber": "",
+    "twilioToNumber": "",
+    "refreshToken": "",
+    "accessToken": "",
+    "tg_enabled": false,
+    "tg_token": "",
+    "tg_chat_id": 0
+  }
